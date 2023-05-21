@@ -35,10 +35,13 @@
    Create groups <br />
    List all the animes, youtube videos we want to see + share with friends <br />
    List all the games and other applications we have + share with friends <br />
+   List cooking receipes, sport routine, visited country <br />
+   Prepare a travel using integrated google maps with specifying countries and city <br />
    Set X stars on an anime, yt videos, app, ... <br />
    Compared with the stars, automatically create a scoreboard of all the animes, ... + Average for the scoreboard in groups <br />
    Show on profile the hours spent for all animes seen <br />
-   Grab the videos of the anime and see it with friend in same time 
+   Grab the videos of the anime and see it with friend in same time <br />
+   Phone version
    
    ## Contributors
    | <b> <a href="https://github.com/dam277">Damien Loup</a> </b>                      | <b> DanielBF7 </b>                                                                                   |
