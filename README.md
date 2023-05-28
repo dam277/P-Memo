@@ -33,7 +33,7 @@
    Create account <br />
    Add friends <br />
    Create groups <br />
-   List all the animes, youtube videos we want to see + share with friends <br />
+   List all the animes (+ opening/endings), youtube videos we want to see + share with friends <br />
    List all the games and other applications we have + share with friends <br />
    List cooking receipes, sport routine, visited country <br />
    Prepare a travel using integrated google maps with specifying countries and city <br />
