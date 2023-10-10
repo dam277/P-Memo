@@ -35,10 +35,11 @@
    Create groups with chat and vocal calls <br />
    List all the animes, youtube videos we want to see + share with friends <br />
    List all the games and other applications we have + share with friends <br />
-   List cooking receipes, sport routine, visited country <br />
    List musics we want (mp3, ...) and can hear it in app <br />
-   Use a task manager (to do) <br />
+   List tasks in a task manager (to do) <br />
    Prepare a travel using integrated google maps with specifying countries and city <br />
+   List noteblock to make some cooking receipes, sport routine, visited country <br /> 
+   
    Set X stars on an anime, yt videos, app, ... <br />
    Compared with the stars, automatically create a scoreboard of all the animes, ... + Average for the scoreboard in groups <br />
    Show on profile the hours spent for all animes, games, ... <br />
