@@ -32,7 +32,7 @@
    ## Features
    Create account <br />
    Add friends <br />
-   Create groups <br />
+   Create groups with chat and vocal calls <br />
    List all the animes (+ opening/endings), youtube videos we want to see + share with friends <br />
    List all the games and other applications we have + share with friends <br />
    List cooking receipes, sport routine, visited country <br />
