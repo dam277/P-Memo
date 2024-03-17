@@ -6,13 +6,17 @@
 <div align="center">
     <h2>Languages and libraries used for this project</h2>
     <h3> Languages </h3>
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Csharp.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Python.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Typescript.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/C#.png" />
                                                                                      <br />
     <h3> Databases </h3>
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Sql.png" />
                                                                                      <br />
     <h3> Libraries </h3>
                                                                                      <br />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Maui.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Electron.png" />
 </div>
 <div align="center">
    <h2 align="center">Table of Contents</h2>
