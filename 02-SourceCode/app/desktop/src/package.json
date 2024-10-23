@@ -1,0 +1,56 @@
+{
+  "name": "memo-desktop",
+  "version": "0.0.0",
+  "private": true,
+  "main": "build/main.js",
+  "author": "author_name",
+  "homepage": "./",
+  "description": "Memo app",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "concurrently": "^8.2.2",
+    "cross-env": "^7.0.3",
+    "electron": "^29.1.5",
+    "electron-builder": "^24.13.3",
+    "rimraf": "^5.0.5",
+    "tailwindcss": "^3.4.1",
+    "wait-on": "^7.2.0",
+    "web-vitals": "^2.1.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+
+    "electron:build": "rimraf build && npm run build && tsc && tailwindcss -i ./public/main.css -o ./build/main.css",
+    "electron:start": "npm run electron:build && electron .",
+    "electron:dist": "npm run electron:build && electron-builder -c.extraMetadata.main=build/main.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
