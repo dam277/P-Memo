@@ -6,6 +6,8 @@
 <div align="center">
     <h2>Languages and libraries used for this project</h2>
     <h3> Languages </h3>
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Python.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Typescript.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Csharp.png" />
                                                                                      <br />
     <h3> Databases </h3>
@@ -13,6 +15,8 @@
                                                                                      <br />
     <h3> Libraries </h3>
                                                                                      <br />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Maui.png" />
+    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Electron.png" />
 </div>
 <div align="center">
    <h2 align="center">Table of Contents</h2>
@@ -32,15 +36,18 @@
    ## Features
    Create account <br />
    Add friends <br />
-   Create groups <br />
-   List all the animes (+ opening/endings), youtube videos we want to see + share with friends <br />
+   Create groups with chat and vocal calls <br />
+   List all the animes, youtube videos we want to see + share with friends <br />
    List all the games and other applications we have + share with friends <br />
-   List cooking receipes, sport routine, visited country <br />
+   List musics we want (mp3, ...) and can hear it in app <br />
+   List tasks in a task manager (to do) <br />
    Prepare a travel using integrated google maps with specifying countries and city <br />
+   List noteblock to make some cooking receipes, sport routine, visited country <br /> 
+   
    Set X stars on an anime, yt videos, app, ... <br />
    Compared with the stars, automatically create a scoreboard of all the animes, ... + Average for the scoreboard in groups <br />
-   Show on profile the hours spent for all animes seen <br />
-   Grab the videos of the anime and see it with friend in same time <br />
+   Show on profile the hours spent for all animes, games, ... <br />
+   Grab the videos of the anime, youtube, ... and see it with friend in same time <br />
    Phone version
    
    ## Contributors
